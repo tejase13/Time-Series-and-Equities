@@ -1,6 +1,6 @@
 # Time-Series-and-Equities
 
-This repo includes notebooks on time series analysis and also analysis on stocks and mutual funds. 
+This repository includes notebooks on time series analysis and also analysis of stocks and mutual funds. 
 
 I analyze real-world equities data using Python libraries and statistical methods including time-series techniques. 
 
