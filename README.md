@@ -9,3 +9,5 @@ Includes:
 2. Indian stocks data pull
 3. Benchmark - Nifty Indices
 4. Mutual Funds - Returns & Volatility
+5. Mutual Funds - Benchmarking & Selecting Funds
+6. Candlestick charts plotting
